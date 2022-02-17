@@ -8,7 +8,7 @@
 
 
 
-- - 🌱 I’m currently learning **React.js**
+-  🌱 I’m currently learning **React.js**
 - 🤝 I’m looking for help with **MERN stack project**
 - 👨‍💻 All of my projects are available at [https://github.com/mithlesh1203](https://github.com/mithlesh1203)
 - 💬 Ask me about **DSA and Frontent Development**
