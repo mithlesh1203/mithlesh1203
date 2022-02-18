@@ -10,7 +10,7 @@
 
 -  🌱 I’m currently learning **React.js**
 - 🤝 I’m looking for help with **MERN stack project**
-- 👨‍💻 All of my projects are available at [https://github.com/mithlesh1203](https://github.com/mithlesh1203)
+- 👨‍💻 All of my projects are available at [https://mithleshkumar-portfolio.netlify.app/](https://mithleshkumar-portfolio.netlify.app/)
 - 💬 Ask me about **DSA and Frontent Development**
 - 📫 How to reach me **mkmbittu@gmail.com**
 
