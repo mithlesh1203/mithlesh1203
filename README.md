@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mithlesh Kumar</h1>
-<h3 align="center">a aspiring full stack web developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h3>
+<h3 align="center">An aspiring full stack web developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithlesh1203&label=Profile%20views&color=0e75b6&style=flat" alt="mithlesh1203" /> </p>
 
